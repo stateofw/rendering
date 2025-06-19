@@ -4,8 +4,7 @@
   "description": "Shopify App Proxy for WordPress blog integration",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "dev": "node index.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "express": "^4.18.2"
