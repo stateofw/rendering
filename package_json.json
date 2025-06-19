@@ -2,6 +2,7 @@
   "name": "shopify-wordpress-proxy",
   "version": "1.0.0",
   "description": "Shopify App Proxy for WordPress blog integration using Vercel Functions",
+  "type": "commonjs",
   "scripts": {
     "dev": "vercel dev"
   },
